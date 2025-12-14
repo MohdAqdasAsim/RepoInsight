@@ -2,6 +2,15 @@
 
 This is a web app that helps you **analyze GitHub repositories** using AI. It gives you a **score, summary, and roadmap** for any public repo you provide.
 
+## Demo Video
+
+Here’s a quick demo of how RepoInsight works:
+
+<video width="600" controls>
+  <source src="./demo-video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## How It Works
 
 1. **Enter a repo**
